@@ -3,8 +3,11 @@
 *created by: Amber Womack & Erik Eakins*
 
 ###Introduction
--What is it?
--Who's using it?
+Scratch is a free educational programming language that was developed by the Lifelong Kindergarten Group at the MIT Media Lab[1] and is meant to help "young people learn to think creatively, reason systematically, and work collaboratively"[2].
+
+Scratch falls under the category of "Block languages" with its use of dragging and dropping of blocks and attaching them to each other, like a jigsaw puzzle, in order to create scripts.  Block languages are also considered visual programming languages, requiring visual acuity in order to use the language for all its effects.
+
+It is designed to be accessed as a desktop and online resource that can be for educational and personal entertainment usage. The goal is to provide stepping stones for more advanced programming languages[3].
 
 ###Background
 -Who developed it?
@@ -28,3 +31,8 @@
 -Did the developers meet their goal?
 -Prediction of the language?
 -Prediction of how this language may affect future generations
+
+###References
+[1] wiki.scratch.mit.edu/wiki/Scratch
+[2] scratch.mit.edu/about
+[3] en.wikipedia.org/wiki/Scratch_(programming_language)
