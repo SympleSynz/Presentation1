@@ -1,8 +1,32 @@
 [{
     "description": "This is the scratch interface.",
-    "image": "InitialView.png"
+    "image": "InitialView.PNG"
 },
 {
     "description": "By clicked the x in the red circle, the help/tutorial bar will be minimized.",
-    "image": "MinimizeHelp.png"
+    "image": "MinimizeHelp.PNG"
+},
+{
+    "description": "This area is the Stage area. This window is meant for previewing the scripts running.",
+    "image": "StageWindow.PNG"
+},
+{
+    "description": "This area is the Sprite area. This window is for keeping track of the sprites and art assets that are applied to the sprites.",
+    "image": "SpriteWindow.png"
+},
+{
+    "description": "This area is the Block Palette area. This is where all of the script logic can be found, in block form.",
+    "image": "BlockPaletteWindow.png"
+},
+{
+    "description": "This area is the Script area. This is where the blocks will be added in order to build scripts to run the Scratch program.",
+    "image": "ScriptAreaWindow.png"
+},
+{
+    "description": "This tabbed area replaces the Block Pallet area and Script area with the Costume area.  Much like the Block Pallet area, the Costume area along the tab keeps track of the current images being used and the sprites. The work area to the right, is a lot like Paint in Windows, which allows for editing and creating art objects.",
+    "image": "CostumeWindow.png"
+},
+{
+    "description": "This tabbed area replaces the Block Pallet area or the Costume area with the Sound area.  The columned area under the tabs lists the current sounds added to the Scratch program. The work area to the right of that allows for recording and basic editing of the sound waves.",
+    "image": "SoundWindow.png"
 }]
