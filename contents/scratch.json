@@ -1,0 +1,8 @@
+[{
+    "description": "This is the scratch interface.",
+    "image": "InitialView.png"
+},
+{
+    "description": "By clicked the x in the red circle, the help/tutorial bar will be minimized.",
+    "image": "MinimizeHelp.png"
+}]
