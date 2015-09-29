@@ -1,5 +1,5 @@
 [{
-    "description": "This is the scratch interface.",
+    "description": "This is the initial Scratch interface found on the Scratch.MIT website",
     "image": "InitialView.PNG"
 },
 {
@@ -29,4 +29,8 @@
 {
     "description": "This tabbed area replaces the Block Pallet area or the Costume area with the Sound area.  The columned area under the tabs lists the current sounds added to the Scratch program. The work area to the right of that allows for recording and basic editing of the sound waves.",
     "image": "SoundWindow.png"
+},
+{
+	"description": "These are the cursor tools. They allow for minor manipulations of the Stage area. The tools allow for shrinking and growing images as well as duplicating and deleting sprites.",
+	"image": "CursorTools.png"
 }]
