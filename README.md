@@ -18,7 +18,7 @@ It is designed to be accessed as a desktop and online resource that can be for e
 
 ###Background
 - Purpose of development?
-Scratch was originally designed for after school programs in economically underprivileged areas. It was established in Computer Clubhouse program, which is a place for young people to be creative and explore their ideas within new technologies. After observing this program and the interactions with the users, the researchers were able to advance the designs of the program. Now Scratch is used in the educational system to help students of all age groups, disciplines, and is in several different countries formatted in their languages.  
+Scratch was originally designed for after school programs in economically underprivileged areas. It was established in the Computer Clubhouse program, which is a place for young people to be creative and explore their ideas within new technologies. After observing this program and the interactions bweteen the program and  the users, the researchers were able to advance the designs of the program. Now Scratch is used in the educational system to help students of all age groups, disciplines, and is in several different countries formatted in their languages.  
 
 - Class of programming?
 Scratch is a visual programming tool that allows the users to visualize difficult concepts by developing their ideas graphically rather than like most programming languages that use text specifically. Developing the skills to program these difficult concepts helps prepare them for other basic programming languages. As programmers, code is organized into sections or blocks of code.Scratch is also considered a block-structured programming language, because it takes these concepts and uses the ability to drag and drop the blocks or sections of ideas to a staging window.   
@@ -35,7 +35,7 @@ Since scratch is a block language, the blocks have to be moved around. This is h
 
 
 ###Conclusions
-In conclusion, scratch is believed to be an ideal tool to teach kids the beginning level of programming and beyond. This language is being implemented all over different parts of the world. Thr future of scratch seems tl have a continued growth expansion program. The developers met their original goal and from there it moved to the educational systems of all levels. Because its offered as a free service and there are many available resources to help instructors incorporate it into their curriculum, the prediction of this program is continued growth. If it progresses, it will affect future generations with more possiblities of exposure. Its important to expose them and allow for creativity as younger ages. 
+In conclusion, scratch is believed to be an ideal tool to teach kids the beginning level of programming and beyond. This language is being implemented all over different parts of the world. The future of scratch seems to have a continued growth expansion plan. The developers met their original goal and from there it moved to the educational systems of all levels. Because its offered as a free service and there are many available resources to help instructors incorporate it into their curriculum, the prediction of this program is continued growth. If it progresses, it will affect future generations with more possiblities of exposure. Its important to expose them and allow for creativity as younger ages. 
 
 
 ###References
