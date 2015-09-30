@@ -47,38 +47,70 @@
 	"image": "Cloud1Move.PNG"
 },
 {
-	"description": "We will change the value of x to change by a -1 because we want the cloud to move to the left while the cat sprite looks like it is moving to the right. We then grab the 'if' block from the control category and add it to the stack.",
+	"description": "We will change the value of x to change by a -1 because we want the cloud to move to the left while the cat sprite looks like it is moving to the right.",
+	"image": "Cloud1ChangeMove.PNG"
+},
+{
+	"description": "We then grab the 'if' block from the control category and add it to the stack.",
 	"image": "Cloud1If.PNG"
 },
 {
-	"description": "",
-	"image":
+	"description": "When the cloud hits the edge of the window, we want something to happen. This is the purpose of the 'if' block. We need to add a conditional block to the 'if' block, so we grab the '[] < []' block from the operators category",
+	"image": "Cloud1Operator.PNG"
 },
 {
-	"description": "",
-	"image":
+	"description": "Grabbing the 'x position' block from the motion category and adding it to the left side of the '[] < []' block, will allow a comparison of the x position of the cloud sprite to whatever value is on the right.",
+	"image": "Cloud1XPosition.PNG"
 },
 {
-	"description": "",
-	"image":
+	"description": "Since the stage window is only -240 x 240 for a size on the x-axis, we will set the value to be -280, so that the cloud will go off the window. But the entire cloud is unable to disappear, so we will add a 'hide' block to make the sprite disappear once its x position is less that -280.",
+	"image": "Cloud1Hide.PNG"
 },
 {
-	"description": "",
-	"image":
+	"description": "Ultimately, we will have a second cloud sprite that will be moving across the top of the window, that's why we want this cloud sprite to stay hidden for a short period of time as the other one travels across the screen. This will give the impression of the cat moving slowly. We grab the 'wait [] secs' block from the control category and change the time to 14.",
+	"image": "Cloud1Wait.PNG"
 },
 {
-	"description": "",
-	"image":
+	"description": "After waiting, we want the cloud sprite to appear again, so we grab the 'show' block from the looks category and add it to the stack, inside the 'if' block.",
+	"image":"Cloud1Show.PNG"
 },
 {
-	"description": "",
-	"image":
+	"description": "The cloud sprite needs to be reset to the other side of the window, so we grab the 'set x to []' block from the motion category and add it as the last block in the 'if' block. Then we add the value 300 to the same block so that the cloud sprite starts off the window.",
+	"image":"Cloud1SetX.PNG"
 },
 {
-	"description": "",
-	"image":
+	"description": "Now this cloud sprite's script is complete",
+	"image": "Cloud1Script.PNG"
 },
 {
-	"description": "",
-	"image":
+	"description": "But we want another cloud sprite to be moving the exact same as the first. This is where we will use the duplicate tool at the top of the screen. We will hit that icon click the cloud sprite in the Sprite area.",
+	"image": "CloudDuplicate.PNG"
+},
+{
+	"description": "When we select cloud2, we see that it has the exact same script as the first cloud. The duplicate tool copied everything over.",
+	"image": "Cloud2.PNG"
+},
+{
+	"description": "We will move the clouds around to be placed where we want them to start once the scripts start to run.",
+	"image": "CloudsPlacement.PNG"
+},
+{
+	"description": "Next, we need a background. So we select the backdrop found in the Sprite area. Notice how the Costume tab has now changed to say 'Backdrop'.",
+	"image": "Backdrop.PNG"
+},
+{
+	"description": "We'll add a gradiant blue color to the backdrop by selecting the paint can (to fill), the gradiant option (to style), and the blue color from the palette.",
+	"image": "BackdropColor.PNG"
+},
+{
+	"description": "We need a ground for the cat sprite to walk on, so we will use the rectangle tool, with the solid box option, and the redish brown color from the palette, and select a rectangled area toward the bottom of the backdrop.",
+	"image": "BackdropGroundSelect.PNG"
+},
+{
+	"description": "Once created, an option is available to move the rectangle around, rotate it, or even resize it. But we don't want to do any of that, so we will select off the backdrop.",
+	"image": "BackdropGroundSet.PNG"
+},
+{
+	"description": "Final step, we click and hold the cat sprite and move it to be over the ground. The scripts for all the sprites are done and the background is set. The Scratch program is complete and ready to be run. Move the cursor into the stage area and press the right arrow key to see the program run.",
+	"image": "CatPlacement.PNG"
 }]
