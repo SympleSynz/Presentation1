@@ -3,7 +3,7 @@
     "image": "InitialView.PNG"
 },
 {
-    "description": "By clicked the x in the red circle, the help/tutorial bar will be minimized.",
+    "description": "By clicking the x in the red circle, the help/tutorial bar will be minimized.",
     "image": "MinimizeHelp.PNG"
 },
 {
@@ -31,6 +31,6 @@
     "image": "SoundWindow.png"
 },
 {
-	"description": "These are the cursor tools. They allow for minor manipulations of the Stage area. The tools allow for shrinking and growing images as well as duplicating and deleting sprites.",
+	"description": "These are the cursor tools. They allow for minor manipulations of the Stage or Script area. The tools allow for shrinking and growing images or blocks as well as duplicating and deleting sprites and blocks.",
 	"image": "CursorTools.png"
 }]

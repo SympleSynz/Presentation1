@@ -40,7 +40,7 @@ Since scratch is a block language, the blocks have to be moved around. This is h
 -How does this language affect current software engineers/dev
 -Why do we care?
 
-###Conclusion
+###Conclusions
 -Did the developers meet their goal?
 -Prediction of the language?
 -Prediction of how this language may affect future generations
