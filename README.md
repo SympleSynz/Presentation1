@@ -39,6 +39,6 @@ In conclusion, scratch is believed to be an ideal tool to teach kids the beginni
 
 
 ###References
-[1] wiki.scratch.mit.edu/wiki/Scratch
-[2] scratch.mit.edu/about
+[1] wiki.scratch.mit.edu/wiki/Scratch<br>
+[2] scratch.mit.edu/about<br>
 [3] en.wikipedia.org/wiki/Scratch_(programming_language)
