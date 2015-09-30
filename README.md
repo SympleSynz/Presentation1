@@ -33,17 +33,10 @@ Starting in the upper left of the screen is a large window, known as the staging
 - Description of the language and how it is used
 Since scratch is a block language, the blocks have to be moved around. This is how you build your project or program, which doesn't require a particular syntax. This allows for the visualization instead of having to type code, build, and look for typing mistakes. Because visually it has a game like interface and made simply, educators are able to tech people at younger ages and children are able to relate more easily. However, even though Scratch has the ability to make it simple enough for children to understand, it also has multiple background tools that allow for more extensive or complex programming. It also has the ability to be extended by being able to create your own blocks, add lists or variable, or being able to connect other related hardware programs. These hardware programs allow it to reach the outside world by robotics, sensing and sound, or many other possibilities. 
 
-###Drawing Conclusions
--Refer to the purpose of development
--Who's currently using it?
--How is this language being implemented?
--How does this language affect current software engineers/dev
--Why do we care?
 
 ###Conclusions
--Did the developers meet their goal?
--Prediction of the language?
--Prediction of how this language may affect future generations
+In conclusion, scratch is believed to be an ideal tool to teach kids the beginning level of programming and beyond. This language is being implemented all over different parts of the world. Thr future of scratch seems tl have a continued growth expansion program. The developers met their original goal and from there it moved to the educational systems of all levels. Because its offered as a free service and there are many available resources to help instructors incorporate it into their curriculum, the prediction of this program is continued growth. If it progresses, it will affect future generations with more possiblities of exposure. Its important to expose them and allow for creativity as younger ages. 
+
 
 ###References
 [1] wiki.scratch.mit.edu/wiki/Scratch
