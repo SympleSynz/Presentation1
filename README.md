@@ -28,7 +28,7 @@ Scratch is a visual programming tool that allows the users to visualize difficul
 - User Interface 
 Starting in the upper left of the screen is a large window, known as the staging area, which is where the results of a running program will be displayed. Inside the staging area contains a sprite; its a golden carton cat object that will perform the actions or commands. Initially, there is one set up from a preset library, but they can also be created by the user in the paint editor. If multiple sprites and/or costumes are created, only one can be used at a time and will be listed in the sprite window below the staging area. To the right of these windows is the section containing the tabs for the scripts, the costumes, and the sounds. Under the scripts tab is a list of several categories of commands, such as Motion, Looks, Sound, Pen, Data, Events, Control, Sensing, Operators, and More Blocks. When selecting a specific category, the user will see the scripts which are the multi-colored and multi-shaped blocks that contain coding expressions on them. These blocks will be used by dragging and dropping them into the script area window and can be connected to each other based on the shapes. Next to the script tab is the Costume tab. This is the tab to be selected if the user wishes to change the sprite or create other background effects, giving further creativity effects if desired. Next to the Costume tab is the Sound tab, that allows the user to create various sounds or music for the sprite. The largest window on the right side of the screen is the visual project area for the user to create or work with the block programming code. When blocks are drug to this area, they will be connected in a particular order of operations (like actual programming is done) that the programmer wants the object sprite to carry out. For a detailed picture view, see the following. 
 
-- Functionality - synz0331 link goes here
+- Functionality - For a visual description of the elements of Scratch and its UI as well as a walkthrough on building a simple program [click here](http://synz0331.github.io/Presentation1/ "Scratch walkthrough")
 
 - Description of the language and how it is used
 Since scratch is a block language, the blocks have to be moved around. This is how you build your project or program, which doesn't require a particular syntax. This allows for the visualization, instead of having to type code, build it, and look for any typing mistakes. Because it has a game like interface and visually made simply, educators are able to teach people at younger ages and children are able to relate more easily. However, even though Scratch has the ability to make the tasks seem simple enough for children to understand, it also has multiple background tools or attatchments that allow for more extensive or complex programming. It also has the ability to be extended by being able to create your own blocks, add lists or variable, or being able to connect other related hardware programs. These hardware programs allow it to reach the outside world by robotics, sensing and sound, or many other possibilities. 
@@ -39,7 +39,7 @@ In conclusion, scratch is believed to be an ideal tool to teach kids at the begi
 
 
 ###References
-[1] wiki.scratch.mit.edu/wiki/Scratch
-[2] scratch.mit.edu/about
-[3] en.wikipedia.org/wiki/Scratch_(programming_language)
+- [1] wiki.scratch.mit.edu/wiki/Scratch
+- [2] scratch.mit.edu/about
+- [3] en.wikipedia.org/wiki/Scratch_(programming_language)
 
